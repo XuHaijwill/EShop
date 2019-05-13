@@ -110,7 +110,7 @@
 
 
 	<!-- footer start -->
-	<%-- <jsp:include page="../commons/footer.jsp" /> --%>
+	<jsp:include page="../commons/footer.jsp" />
 	<!-- footer end -->
 </body>
 </html>

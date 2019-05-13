@@ -32,17 +32,5 @@ public class ItemController {
 		return tbItem;
 	}
 	
-	@RequestMapping("/item/list")
-	@ResponseBody
-	public EasyUIDataGridResult getItemList(Integer page, Integer rows) {
-		EasyUIDataGridResult result = itemService.getItemList(page, rows);
-		return result;
-	}
 	
-	@RequestMapping(value="/item/save", method=RequestMethod.POST)
-	@ResponseBody
-	public TaotaoResult addItem(TbItem item, String desc) {
-		TaotaoResult result = itemService.addItem(item, desc);
-		return result;
-	}
 }

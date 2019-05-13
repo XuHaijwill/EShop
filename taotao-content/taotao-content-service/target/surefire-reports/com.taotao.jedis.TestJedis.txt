@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.taotao.jedis.TestJedis
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.464 sec <<< FAILURE!
+com.taotao.jedis.TestJedis.testJedisCluster()  Time elapsed: 18.425 sec  <<< FAILURE!
+redis.clients.jedis.exceptions.JedisConnectionException: no reachable node in cluster
+	at redis.clients.jedis.JedisSlotBasedConnectionHandler.getConnection(JedisSlotBasedConnectionHandler.java:48)
+	at redis.clients.jedis.JedisClusterCommand.runWithRetries(JedisClusterCommand.java:50)
+	at redis.clients.jedis.JedisClusterCommand.runWithRetries(JedisClusterCommand.java:67)
+	at redis.clients.jedis.JedisClusterCommand.run(JedisClusterCommand.java:29)
+	at redis.clients.jedis.JedisCluster.set(JedisCluster.java:70)
+	at com.taotao.jedis.TestJedis.testJedisCluster(TestJedis.java:55)
+

@@ -24,6 +24,6 @@
 	
 	<!-- 引用dubbo服务 -->
 	<dubbo:application name="taotao-cart-web"/>
-	<dubbo:registry protocol="zookeeper" address="192.168.25.167:2181"/>	
+	<dubbo:registry protocol="zookeeper" address="47.99.215.55:8101"/>	
 	<dubbo:reference interface="com.taotao.service.ItemService" id="itemService" />
 </beans>      
