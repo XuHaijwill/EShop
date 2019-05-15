@@ -1,12 +1,18 @@
 package com.taotao.common.pojo;
 
 import java.io.Serializable;
-
+/**
+ * 
+ * @author 11511
+ *
+ */
 public class EasyUITreeNode implements Serializable{
 
+	private static final long serialVersionUID = 6197855129514531882L;
 	private long id;
 	private String text;
 	private String state;
+	
 	public long getId() {
 		return id;
 	}

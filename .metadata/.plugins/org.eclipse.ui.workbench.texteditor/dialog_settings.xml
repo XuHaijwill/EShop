@@ -2,17 +2,22 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="127.0.0.1" key="selection"/>
+		<item value="JedisClient" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="jedisClient"/>
+			<item value="selectByPrimaryKey"/>
+			<item value="getItemById"/>
+			<item value="127.0.0.1"/>
 			<item value="192.168.25.153"/>
 			<item value="dubbo"/>
 			<item value="pagehelper"/>
 		</list>
 		<list key="replacehistory">
+			<item value="66.42.68.168"/>
 			<item value="127.0.0.1"/>
 		</list>
 	</section>
