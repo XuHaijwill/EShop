@@ -38,13 +38,13 @@ public class PictureController {
 			String url = fastDFSClient.uploadFile(uploadFile.getBytes(), extName);
 			url = IMAGE_SERVER_URL + url;
 			//响应上传图片的url
-			Map<String,Object> result = new HashMap<String,Object>();
+			Map result = new HashMap<>();
 			result.put("error", 0);
 			result.put("url", url);
 			return JsonUtils.objectToJson(result);
 		} catch (Exception e) {
 			e.printStackTrace();
-			Map<String,Object> result = new HashMap<>();
+			Map result = new HashMap<>();
 			result.put("error", 1);
 			result.put("message", "图片上传失败");
 			return JsonUtils.objectToJson(result);

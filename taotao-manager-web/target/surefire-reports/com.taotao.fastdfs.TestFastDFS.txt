@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.taotao.fastdfs.TestFastDFS
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.125 sec <<< FAILURE!
-uploadFile(com.taotao.fastdfs.TestFastDFS)  Time elapsed: 0.016 sec  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.111 sec <<< FAILURE!
+uploadFile(com.taotao.fastdfs.TestFastDFS)  Time elapsed: 0.012 sec  <<< ERROR!
 org.csource.common.MyException: item "tracker_server" in D:/workspaces-itcast/JavaEE28/taotao-manager-web/src/main/resources/resource/client.conf not found
 	at org.csource.fastdfs.ClientGlobal.init(ClientGlobal.java:96)
 	at com.taotao.fastdfs.TestFastDFS.uploadFile(TestFastDFS.java:19)
@@ -36,7 +36,7 @@ org.csource.common.MyException: item "tracker_server" in D:/workspaces-itcast/Ja
 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 
-testFastDfsClient(com.taotao.fastdfs.TestFastDFS)  Time elapsed: 0.001 sec  <<< ERROR!
+testFastDfsClient(com.taotao.fastdfs.TestFastDFS)  Time elapsed: 0.004 sec  <<< ERROR!
 org.csource.common.MyException: item "tracker_server" in D:/workspaces-itcast/JavaEE28/taotao-manager-web/src/main/resources/resource/client.conf not found
 	at org.csource.fastdfs.ClientGlobal.init(ClientGlobal.java:96)
 	at com.taotao.utils.FastDFSClient.<init>(FastDFSClient.java:21)

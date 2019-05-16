@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.taotao.pagehelper.TestPageHelper
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE!
-com.taotao.pagehelper.TestPageHelper.testPageHelper()  Time elapsed: 0 sec  <<< FAILURE!
-java.lang.NoSuchMethodError: com.github.pagehelper.PageHelper.startPage(II)V
-	at com.taotao.pagehelper.TestPageHelper.testPageHelper(TestPageHelper.java:24)
-

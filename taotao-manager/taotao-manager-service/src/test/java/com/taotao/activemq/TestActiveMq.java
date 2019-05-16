@@ -13,7 +13,6 @@ import javax.jms.TextMessage;
 import javax.jms.Topic;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
-import org.apache.activemq.command.ActiveMQTextMessage;
 import org.junit.Test;
 
 public class TestActiveMq {
@@ -23,7 +22,7 @@ public class TestActiveMq {
 	@Test
 	public void testQueueProducer() throws Exception {
 		//1.创建一个连接工厂对象ConnectionFactory对象。需要指定mq服务的ip及端口
-		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://192.168.25.168:61616");
+		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://47.99.215.55:8160");
 		//2.使用ConnectionFactory创建一个连接Connection对象
 		Connection connection = connectionFactory.createConnection();
 		//3.开启连接。调用Connection对象的start方法
@@ -53,7 +52,7 @@ public class TestActiveMq {
 	@Test
 	public void testQueueConsumer() throws Exception {
 		//创建一个连接工厂对象
-		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://192.168.25.168:61616");
+		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://47.99.215.55:8160");
 		//使用连接工厂对象创建一个连接
 		Connection connection = connectionFactory.createConnection();
 		//开启连接
@@ -99,7 +98,7 @@ public class TestActiveMq {
 	@Test
 	public void testTopicProducer() throws Exception {
 		//创建一个连接工厂对象
-		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://192.168.25.168:61616");
+		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://47.99.215.55:8160");
 		//创建连接
 		Connection connection = connectionFactory.createConnection();
 		//开启连接
@@ -123,7 +122,7 @@ public class TestActiveMq {
 	@Test
 	public void testTopicConsumser() throws Exception {
 		//创建一个连接工厂对象
-		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://192.168.25.168:61616");
+		ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://47.99.215.55:8160");
 		//使用连接工厂对象创建一个连接
 		Connection connection = connectionFactory.createConnection();
 		//开启连接
