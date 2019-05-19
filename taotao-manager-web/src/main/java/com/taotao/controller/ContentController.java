@@ -10,11 +10,12 @@ import com.taotao.content.service.ContentService;
 import com.taotao.pojo.TbContent;
 
 /**
- * 内容管理Controller
- * <p>Title: ContentController</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
- * @version 1.0
+ * 
+* @ClassName: ContentController 
+* @Description: 内容管理Controller
+* @author xhj
+* @date 2019-01-17 07:58
+*
  */
 @Controller
 public class ContentController {

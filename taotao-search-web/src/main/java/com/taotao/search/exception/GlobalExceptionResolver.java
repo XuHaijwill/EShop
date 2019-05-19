@@ -9,11 +9,12 @@ import org.springframework.web.servlet.HandlerExceptionResolver;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * 全局异常处理器
- * <p>Title: GlobalExceptionResolver</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
- * @version 1.0
+ * 
+* @ClassName: GlobalExceptionResolver 
+* @Description: 全局异常处理器
+* @author xhj
+* @date 2019-05-18 22:39
+*
  */
 public class GlobalExceptionResolver implements HandlerExceptionResolver {
 

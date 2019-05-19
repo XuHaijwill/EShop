@@ -12,11 +12,12 @@ import com.taotao.common.pojo.EasyUITreeNode;
 import com.taotao.service.ItemCatService;
 
 /**
- * 商品分类管理Controller
- * <p>Title: ItemCatController</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
- * @version 1.0
+ * 
+* @ClassName: ItemCatController 
+* @Description: 商品分类管理Controller
+* @author xhj
+* @date 2019-05-17 06:39
+*
  */
 @Controller
 public class ItemCatController {

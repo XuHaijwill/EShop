@@ -14,11 +14,12 @@ import com.taotao.pojo.TbItemCatExample.Criteria;
 import com.taotao.service.ItemCatService;
 
 /**
- * 商品分类管理Service
- * <p>Title: ItemCatServiceImpl</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
- * @version 1.0
+ * 
+* @ClassName: ItemCatServiceImpl 
+* @Description: 商品分类管理Service
+* @author xhj
+* @date 2019-05-16 23:21
+*
  */
 @Service
 public class ItemCatServiceImpl implements ItemCatService {

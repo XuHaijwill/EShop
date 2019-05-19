@@ -4,6 +4,14 @@ import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+/**
+ * 
+* @ClassName: TestSpringActiveMq 
+* @Description: 消费者测试 
+* @author xhj
+* @date 2019-05-19 13:27
+*
+ */
 public class TestSpringActiveMq {
 
 	@Test

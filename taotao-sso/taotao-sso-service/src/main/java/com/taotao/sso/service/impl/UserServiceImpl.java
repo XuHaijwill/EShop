@@ -20,11 +20,12 @@ import com.taotao.pojo.TbUserExample.Criteria;
 import com.taotao.sso.service.UserService;
 
 /**
- * 用户处理Service
- * <p>Title: UserServiceImpl</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
- * @version 1.0
+ * 
+* @ClassName: UserServiceImpl 
+* @Description: 用户处理Service
+* @author xhj
+* @date 2019-05-17 18:24
+*
  */
 @Service
 public class UserServiceImpl implements UserService {
