@@ -22,11 +22,11 @@ public class TestFreeMarker {
 		//2.创建一个Configuration对象
 		Configuration configuration = new Configuration(Configuration.getVersion());
 		//3.设置模板所在的路径
-		configuration.setDirectoryForTemplateLoading(new File("D:/workspaces-itcast/JavaEE28/taotao-item-web/src/main/webapp/WEB-INF/ftl"));
+		configuration.setDirectoryForTemplateLoading(new File("D:/workspaces/git_resources/EShop/taotao-item-web/src/main/webapp/WEB-INF/ftl"));
 		//4.设置模板的字符集，一般utf-8
 		configuration.setDefaultEncoding("utf-8");
 		//5.使用Configuration对象加载一个模板文件，需要指定模板文件的文件名。
-//		Template template = configuration.getTemplate("hello.ftl");
+		//Template template = configuration.getTemplate("hello.ftl");
 		Template template = configuration.getTemplate("student.ftl");
 		//6.创建一个数据集，可以是pojo也可以是map，推荐使用map
 		Map data = new HashMap<>();
@@ -45,8 +45,10 @@ public class TestFreeMarker {
 		//日期类型的处理
 		data.put("date", new Date());
 		data.put("val","123456");
+		
 		//7.创建一个Writer对象，指定输出文件的路径及文件名。
-		Writer out = new FileWriter(new File("D:/temp/javaee28/out/student.html"));
+		//Writer out = new FileWriter(new File("D:/hello.txt"));
+		Writer out = new FileWriter(new File("D:/student.html"));
 		//8.使用模板对象的process方法输出文件。
 		template.process(data, out);
 		//9.关闭流

@@ -121,7 +121,7 @@ public class ItemServiceImpl implements ItemService {
 		itemDesc.setCreated(new Date());
 		//向商品描述表插入数据
 		itemDescMapper.insert(itemDesc);
-		//向Activemq发送商品添加消息
+		//向Activemq发送商品添加消息,生产消息
 		jmsTemplate.send(destination, new MessageCreator() {
 			
 			@Override

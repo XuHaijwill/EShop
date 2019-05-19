@@ -16,11 +16,12 @@ import freemarker.template.Configuration;
 import freemarker.template.Template;
 
 /**
- * 网页静态处理Controller
- * <p>Title: HtmlGenController</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
- * @version 1.0
+ * 
+* @ClassName: HtmlGenController 
+* @Description: 网页静态处理Controller
+* @author xhj
+* @date 2019-05-19 14:48
+*
  */
 @Controller
 public class HtmlGenController {

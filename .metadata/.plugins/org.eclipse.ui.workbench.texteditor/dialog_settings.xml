@@ -2,12 +2,13 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="1" key="selection"/>
+		<item value="/" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="\"/>
 			<item value="1"/>
 			<item value="1.html"/>
 			<item value="图书、音"/>
@@ -15,9 +16,9 @@
 			<item value="图书"/>
 			<item value="common"/>
 			<item value="pojo"/>
-			<item value="TbItem"/>
 		</list>
 		<list key="replacehistory">
+			<item value="/"/>
 			<item value="tcp://47.99.215.55:8160"/>
 			<item value="66.42.68.168"/>
 			<item value="127.0.0.1"/>
