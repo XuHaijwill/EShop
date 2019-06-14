@@ -1,2 +1,2 @@
 # EShop
-This is an online mall project.
+网上购物商城
