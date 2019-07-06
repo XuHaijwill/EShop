@@ -4,7 +4,10 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class TbItemParamItem implements Serializable{
-    private Long id;
+
+	private static final long serialVersionUID = -1295488974329357471L;
+
+	private Long id;
 
     private Long itemId;
 

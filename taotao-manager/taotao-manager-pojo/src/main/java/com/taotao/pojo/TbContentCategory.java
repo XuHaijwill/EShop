@@ -4,7 +4,10 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class TbContentCategory implements Serializable{
-    private Long id;
+
+	private static final long serialVersionUID = -1421327392522067032L;
+
+	private Long id;
 
     private Long parentId;
 

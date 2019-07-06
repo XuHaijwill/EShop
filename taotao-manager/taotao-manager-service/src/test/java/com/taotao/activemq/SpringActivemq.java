@@ -18,6 +18,7 @@ public class SpringActivemq {
 	@Test
 	public void testJmsTemplate() throws Exception {
 		//初始化spring容器
+		@SuppressWarnings("resource")
 		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("classpath:spring/applicationContext-activemq.xml");
 		//从容器中获得JmsTemplate对象
 		JmsTemplate jmsTemplate = applicationContext.getBean(JmsTemplate.class);
