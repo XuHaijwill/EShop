@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1557216812601_1" label="" name=""/>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1557749743728_3" label="dubbo-admin" name="dubbo-admin"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1557216812601_1" label="" name="">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-order" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-search-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-search" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-cart-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-content-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-order-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-portal-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-item-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/fastdfs-client-java-master-master" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-content-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-search-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-search-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-order-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-order-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-web" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1557749743728_3" label="dubbo-admin" name="dubbo-admin">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-admin" type="4"/>
+</workingSet>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1560728842830_3" label="Java Main Sources" name="main">
 <item elementID="=dubbo-admin/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=dubbo-admin/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>

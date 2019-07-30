@@ -1865,3 +1865,137 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet
 2019-06-28 16:48:00,922 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-06-28 16:48:00,924 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-28 16:48:00,924 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:40:31,319 [Worker-11: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-06 20:42:41,987 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/maven-metadata.xml
+2019-07-06 20:42:42,367 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/maven-metadata.xml
+2019-07-06 20:42:44,231 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-source-plugin/maven-metadata.xml
+2019-07-06 20:42:44,375 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-source-plugin/maven-metadata.xml
+2019-07-06 20:42:48,232 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:48,266 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-06 20:42:48,298 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:48,301 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2019-07-06 20:42:52,604 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:42:53,271 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:42:54,234 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-dao: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT with classifier  to /taotao-manager-dao/target/classes
+2019-07-06 20:42:54,234 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:42:54,239 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-content-interface: com.taotao:taotao-content-interface:0.0.1-SNAPSHOT with classifier  to /taotao-content-interface/target/classes
+2019-07-06 20:42:54,252 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:42:56,726 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:56,727 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-07-06 20:42:56,864 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:56,864 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:42:58,014 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:42:58,020 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2019-07-06 20:42:58,021 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:42:58,042 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:58,043 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-06 20:42:58,516 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:58,517 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:42:59,450 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:42:59,457 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2019-07-06 20:42:59,457 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:42:59,477 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:59,478 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-06 20:42:59,515 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:42:59,516 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:00,494 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:00,706 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-dao: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT with classifier  to /taotao-manager-dao/target/classes
+2019-07-06 20:43:00,706 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:00,710 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2019-07-06 20:43:00,722 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:00,749 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:00,749 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2019-07-06 20:43:00,797 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:00,797 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:01,591 [Worker-16: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:01,876 [Worker-16: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:02,174 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:02,445 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-dao: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT with classifier  to /taotao-manager-dao/target/classes
+2019-07-06 20:43:02,445 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:02,448 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-order-interface: com.taotao:taotao-order-interface:0.0.1-SNAPSHOT with classifier  to /taotao-order-interface/target/classes
+2019-07-06 20:43:02,463 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:02,478 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:02,479 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2019-07-06 20:43:02,534 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:02,535 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:03,440 [Worker-21: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:03,449 [Worker-21: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-content-interface: com.taotao:taotao-content-interface:0.0.1-SNAPSHOT with classifier  to /taotao-content-interface/target/classes
+2019-07-06 20:43:03,449 [Worker-21: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:03,478 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:03,478 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-06 20:43:03,539 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:03,539 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:05,073 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:05,080 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2019-07-06 20:43:05,080 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:05,080 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-content-interface: com.taotao:taotao-content-interface:0.0.1-SNAPSHOT with classifier  to /taotao-content-interface/target/classes
+2019-07-06 20:43:05,080 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-search-interface: com.taotao:taotao-search-interface:0.0.1-SNAPSHOT with classifier  to /taotao-search-interface/target/classes
+2019-07-06 20:43:05,090 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/fastdfs-client-java-master-master: org.csource:fastdfs-client-java:1.27-SNAPSHOT with classifier  to /fastdfs-client-java-master-master/target/classes
+2019-07-06 20:43:05,109 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:05,110 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-07-06 20:43:05,264 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:05,264 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:06,327 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:06,593 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:07,057 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-dao: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT with classifier  to /taotao-manager-dao/target/classes
+2019-07-06 20:43:07,057 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:07,060 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-search-interface: com.taotao:taotao-search-interface:0.0.1-SNAPSHOT with classifier  to /taotao-search-interface/target/classes
+2019-07-06 20:43:07,082 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:07,098 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:07,100 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-06 20:43:07,115 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2019-07-06 20:43:07,188 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:07,188 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:07,730 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:07,735 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-search-interface: com.taotao:taotao-search-interface:0.0.1-SNAPSHOT with classifier  to /taotao-search-interface/target/classes
+2019-07-06 20:43:07,736 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:07,759 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:07,759 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-06 20:43:07,788 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:07,788 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:08,721 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:08,726 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-order-interface: com.taotao:taotao-order-interface:0.0.1-SNAPSHOT with classifier  to /taotao-order-interface/target/classes
+2019-07-06 20:43:08,729 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:08,729 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-sso-interface: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT with classifier  to /taotao-sso-interface/target/classes
+2019-07-06 20:43:08,807 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:08,807 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-06 20:43:08,840 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:08,840 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:09,633 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:09,837 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:10,004 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-dao: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT with classifier  to /taotao-manager-dao/target/classes
+2019-07-06 20:43:10,004 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:10,007 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-sso-interface: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT with classifier  to /taotao-sso-interface/target/classes
+2019-07-06 20:43:10,015 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:10,027 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:10,028 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2019-07-06 20:43:10,095 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:10,096 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 20:43:10,556 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 20:43:10,561 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-sso-interface: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT with classifier  to /taotao-sso-interface/target/classes
+2019-07-06 20:43:10,561 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 20:43:10,577 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:10,578 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-06 20:43:10,605 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 20:43:10,606 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 21:35:21,588 [Worker-36: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 21:35:21,854 [Worker-36: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 21:35:21,988 [Worker-36: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-dao: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT with classifier  to /taotao-manager-dao/target/classes
+2019-07-06 21:35:21,988 [Worker-36: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 21:35:21,990 [Worker-36: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2019-07-06 21:35:22,002 [Worker-36: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 21:35:22,013 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 21:35:22,016 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 21:35:22,018 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 21:35:22,030 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 21:54:36,029 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-07-06 21:54:43,590 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 21:54:45,821 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 21:54:46,193 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-dao: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT with classifier  to /taotao-manager-dao/target/classes
+2019-07-06 21:54:46,193 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2019-07-06 21:54:46,197 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2019-07-06 21:54:46,213 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2019-07-06 21:54:47,915 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 21:54:47,967 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2019-07-06 21:54:48,025 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 21:54:48,029 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
