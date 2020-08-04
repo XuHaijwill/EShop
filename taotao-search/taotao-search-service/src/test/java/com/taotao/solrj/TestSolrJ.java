@@ -12,7 +12,6 @@ import org.apache.solr.common.SolrDocumentList;
 import org.apache.solr.common.SolrInputDocument;
 import org.junit.Test;
 
-import com.sun.tools.jdi.VoidTypeImpl;
 
 public class TestSolrJ {
 

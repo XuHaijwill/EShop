@@ -1,10 +1,8 @@
-eclipse.m2.defaultRuntime=apache-maven-3.6.0
+eclipse.m2.defaultRuntime=apache-maven-3.6.2
 eclipse.m2.downloadJavadoc=true
 eclipse.m2.downloadSources=true
-eclipse.m2.runtimes=apache-maven-3.6.0|apache-maven-3.2.5
-eclipse.m2.runtimesNodes/apache-maven-3.2.5/location=D\:\\Program Files\\eclipseNeon4.6\\apache-maven-3.2.5
-eclipse.m2.runtimesNodes/apache-maven-3.2.5/type=EXTERNAL
-eclipse.m2.runtimesNodes/apache-maven-3.6.0/location=D\:\\Program Files\\apache-maven-3.6.0
-eclipse.m2.runtimesNodes/apache-maven-3.6.0/type=EXTERNAL
-eclipse.m2.userSettingsFile=D\:\\.m2\\\u914D\u7F6E\u6587\u4EF6\\mine\\settings.xml
+eclipse.m2.runtimes=apache-maven-3.6.2
+eclipse.m2.runtimesNodes/apache-maven-3.6.2/location=D\:\\Program Files\\apache-maven-3.6.2
+eclipse.m2.runtimesNodes/apache-maven-3.6.2/type=EXTERNAL
+eclipse.m2.userSettingsFile=D\:\\.m2\\settings.xml
 eclipse.preferences.version=1
